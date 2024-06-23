@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet8Lab", "Dotnet8Lab\Dotnet8Lab.csproj", "{32157653-13AF-42DE-B4EE-1F88C8F82339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		ReleaseIIS|Any CPU = ReleaseIIS|Any CPU
+		ReleaseIIS|x86 = ReleaseIIS|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.Debug|x86.ActiveCfg = Release|x86
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.Debug|x86.Build.0 = Release|x86
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.Release|x86.ActiveCfg = Release|x86
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.Release|x86.Build.0 = Release|x86
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.ReleaseIIS|Any CPU.ActiveCfg = ReleaseIIS|Any CPU
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.ReleaseIIS|Any CPU.Build.0 = ReleaseIIS|Any CPU
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.ReleaseIIS|x86.ActiveCfg = ReleaseIIS|x86
+		{32157653-13AF-42DE-B4EE-1F88C8F82339}.ReleaseIIS|x86.Build.0 = ReleaseIIS|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE52BDA8-4FBB-4C7D-8536-91C080976C56}
+	EndGlobalSection
+EndGlobal

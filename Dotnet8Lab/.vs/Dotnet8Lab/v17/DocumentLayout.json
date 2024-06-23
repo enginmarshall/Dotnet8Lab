@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Githubprojects\\Dotnet8Lab\\Dotnet8Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32157653-13AF-42DE-B4EE-1F88C8F82339}|Dotnet8Lab\\Dotnet8Lab.csproj|d:\\githubprojects\\dotnet8lab\\dotnet8lab\\dotnet8lab\\dotnet8lab.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{32157653-13AF-42DE-B4EE-1F88C8F82339}|Dotnet8Lab\\Dotnet8Lab.csproj|solutionrelative:dotnet8lab\\dotnet8lab.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 266,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dotnet8Lab",
+              "DocumentMoniker": "D:\\Githubprojects\\Dotnet8Lab\\Dotnet8Lab\\Dotnet8Lab\\Dotnet8Lab.csproj",
+              "RelativeDocumentMoniker": "Dotnet8Lab\\Dotnet8Lab.csproj",
+              "ToolTip": "D:\\Githubprojects\\Dotnet8Lab\\Dotnet8Lab\\Dotnet8Lab\\Dotnet8Lab.csproj",
+              "RelativeToolTip": "Dotnet8Lab\\Dotnet8Lab.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T21:52:11.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
